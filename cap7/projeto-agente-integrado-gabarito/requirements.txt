@@ -1,0 +1,10 @@
+fastapi[standard]
+fastmcp
+httpx
+langchain[mcp]>=1.4.0
+langchain-google-genai
+langgraph
+langsmith
+pydantic
+pytest
+python-dotenv
